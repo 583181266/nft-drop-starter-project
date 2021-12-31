@@ -1,0 +1,19 @@
+{
+    "name": "ZOO",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "Gupd9MzNbs3ZhcwG3P6BcvKMMQq53NV5Z7kZ5RkfAZXr",
+          "share": 100
+        }
+      ]
+    }
+  }
